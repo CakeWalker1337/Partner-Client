@@ -1,0 +1,17 @@
+.link-color1
+{
+	color: #828282;
+	vertical-align: center;
+}
+a:hover
+{
+	color: #4F4F4F;
+
+}
+div.oval-div
+{
+	border: 2px solid #CFCFCF;
+	border-radius: 4px;
+	background: #E8E8E8; 
+	padding: 5px 15px 5px 15px;
+}
